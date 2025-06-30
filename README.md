@@ -18,12 +18,6 @@ Hemato-Vision is a machine learning application developed to assist in hematolog
 - Python 3.12 or above recommended
 - Git (to clone the repo)
 
-### 2. Clone the Repository
-```bash
-
-
-```
-
 ### 3. Create and Activate Virtual Environment
 ```bash
 python -m venv venv
