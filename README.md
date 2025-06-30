@@ -88,6 +88,9 @@ Hemato-Vision1/
 - Deploy online via Render or Hugging Face Spaces.
 - Add a feedback loop for incorrect predictions.
 
+## Model Download 
+[Download Model File (50MB)](https://drive.google.com/file/d/1rJhb3Fo4evueLII99pw0KTUFLEa0cuvE/view?usp=sharing)
+
 ## Credits
 - Built using open-source libraries: Flask, TensorFlow, OpenCV
 - Special thanks to mentors and peers who supported development.
